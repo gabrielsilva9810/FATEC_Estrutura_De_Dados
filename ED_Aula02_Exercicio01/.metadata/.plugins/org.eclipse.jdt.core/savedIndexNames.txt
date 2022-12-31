@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+E:\Gabriel Silva\Area de Trabalho\FATEC\OneDrive - Fatec Centro Paula Souza\PROJETOS_GITHUB\ESTRUTURA DE DADOS\AULA_02\ED_AULA02_Exercicio01\.metadata\.plugins\org.eclipse.jdt.core
+3760076943.index
+2121968940.index
+235952547.index
+159227322.index
+1865797976.index
